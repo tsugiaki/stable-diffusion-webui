@@ -6,3 +6,4 @@ set VENV_DIR=
 set COMMANDLINE_ARGS=
 
 call webui.bat
+set STABLE_DIFFUSION_REPO=https://github.com/w-e-w/stablediffusion.git
